@@ -19,3 +19,4 @@ MemoryCaptures/
 *.VC.db
 .vs/
 .idea/
+.vscode/
